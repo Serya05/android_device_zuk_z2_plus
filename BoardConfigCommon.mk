@@ -156,6 +156,9 @@ TARGET_POWERHAL_VARIANT := none
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
 
+# RIL
+TARGET_RIL_VARIANT := caf
+
 # Recovery
 TARGET_RECOVERY_FSTAB := $(VENDOR_PATH)/rootdir/etc/fstab.qcom
 TARGET_USERIMAGES_USE_EXT4 := true
