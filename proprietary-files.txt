@@ -565,6 +565,8 @@ lib/libOmxVpp.so
 lib/libtfa98xx.so
 lib/libmm-qcamera.so
 lib/libqomx_core.so
+lib/libaptXHD_encoder.so
+lib/libaptX_encoder.so
 etc/sensors/sensor_def_qcomdev.conf
 etc/acdbdata/Fluid/Fluid_Global_cal.acdb
 etc/acdbdata/Fluid/Fluid_Hdmi_cal.acdb
@@ -675,6 +677,8 @@ lib64/libloc_ds_api.so
 lib64/libloc_api_v02.so
 lib64/libextmedia_jni.so
 lib64/libtfa98xx.so
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
 bin/rmt_storage
 bin/imsdatadaemon
 bin/imscmservice
