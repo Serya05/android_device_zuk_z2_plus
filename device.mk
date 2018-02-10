@@ -264,7 +264,8 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.sh \
     init.qcom.bt.sh \
     ueventd.qcom.rc \
-    init.qcom.post_boot.sh
+    init.qcom.post_boot.sh \
+    init.qcom.power.rc
 
 # RIL
 PRODUCT_PACKAGES += \
